@@ -26,10 +26,16 @@ When you choose **finish**,HTML file called **team.html** will be generated in t
 
 ## Test
   ![Image of terminal](https://github.com/nobuhiromatsui/team-generator/blob/master/Develop/img/team1.png)
+  Type node app.js
+  
   ![Image of terminal](https://github.com/nobuhiromatsui/team-generator/blob/master/Develop/img/team2.png)
+  Choose Engineer or Intern to add members
+  
   ![Image of terminal](https://github.com/nobuhiromatsui/team-generator/blob/master/Develop/img/team3.png)
+  Choose finish to finish the program
+  
   ![Image of terminal](https://github.com/nobuhiromatsui/team-generator/blob/master/Develop/img/team4.png)
-
+  Generated html in the output folder
 
 
 ## Questions
