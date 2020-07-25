@@ -1,6 +1,6 @@
 # team-generator
 
-Description
+## Description
 As a manger, to have basic information of team members in one spot is beneficial to contact with members quickly. This application helps to create a HTML file which contains basic individual team member’s data such as name, email address, role by using a terminal instead of making it manually.
 
   ![Image of terminal](https://github.com/nobuhiromatsui/team-generator/blob/master/Develop/img/team5.png)
