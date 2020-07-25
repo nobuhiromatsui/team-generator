@@ -3,7 +3,7 @@
 Description
 As a manger, to have basic information of team members in one spot is beneficial to contact with members quickly. This application helps to create a HTML file which contains basic individual team member’s data such as name, email address, role by using a terminal instead of making it manually.
 
-https://drive.google.com/file/d/1P3oWFpTus-XijosXUCoJ1LCejL_0mx7z/view 
+  ![Image of terminal](https://github.com/nobuhiromatsui/team-generator/blob/master/Develop/img/team5.png)
 https://nobuhiromatsui.github.io/team-generator/.
 
 
@@ -25,8 +25,12 @@ After filling manager's information, you can choose to add engineers, interns or
 When you choose **finish**,HTML file called **team.html** will be generated in the folder called **output**.
 
 ## Test
-  ![Image of terminal](https://nobuhiromatsui.github.io/team-generator/Develop/img/READme2.png)
-  ![Image of terminal](https://nobuhiromatsui.github.io/README-generator/Develop/images/READme3.png)
+  ![Image of terminal](https://github.com/nobuhiromatsui/team-generator/blob/master/Develop/img/team1.png)
+  ![Image of terminal](https://github.com/nobuhiromatsui/team-generator/blob/master/Develop/img/team2.png)
+  ![Image of terminal](https://github.com/nobuhiromatsui/team-generator/blob/master/Develop/img/team3.png)
+  ![Image of terminal](https://github.com/nobuhiromatsui/team-generator/blob/master/Develop/img/team4.png)
+
+
 
 ## Questions
   GitHub username: [nobuhiromatsui](https://github.com/nobuhiromatsui) 
