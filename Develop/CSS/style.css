@@ -1,0 +1,29 @@
+.jumbotron  {
+    background-color: darkslategrey;
+}
+
+.jumbotron h1 {
+    color: white;
+}
+
+#manage {
+    /* border-top: solid;
+    border-color: indianred; */
+    border-top: 5px solid red;
+}
+
+#intern {
+    /* border-top: solid;
+    border-color: indianred; */
+    border-top: 5px solid  rgb(185, 185, 185);
+}
+
+.card-header {
+    background-color: rgb(185, 185, 185);
+    border-top: 5px solid blue;
+}
+
+.employee-card {
+    width: 30%;
+    margin: 1%;
+}
